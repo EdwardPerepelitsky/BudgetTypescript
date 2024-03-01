@@ -9,9 +9,10 @@ To run, run the command "npm start" from the top directory.
 
 If running for the first time:
 
-Run the command "npm install" from both the top directory and the directory ./server
-Configure the local database in the file ./server/src/queries.ts
-run "npm run create_tables" from the directory ./server
-run the command "npm start" from the top directory
-The url for the app is https://localhost:4324 .
+	1.	Run the command "npm install" from both the top directory and the directory ./server
+	2.	Configure the local database in the file ./server/src/queries.ts
+	3.	run "npm run create_tables" from the directory ./server
+	4.	run the command "npm start" from the top directory
+ 
+The url for the app is https://localhost:4324 .
 
